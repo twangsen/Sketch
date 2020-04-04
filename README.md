@@ -1,7 +1,6 @@
 ## Assignment 3
 ```
-Wangsen Tian
-20654708 w6tian 
+
 openjdk 11.0.5 2019-10-15
 macOS 10.15.2 (MacBook Pro Early 2015)
 ```
