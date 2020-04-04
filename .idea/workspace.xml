@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="26a3ee3f-9101-4c17-8e3a-123613942205" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YNUasXv7lTumOVPGNzqJY0d4vf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowDuplicates.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.idea" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="SketchIt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SketchIt" />
+      <module name="a3" />
+      <option name="VM_PARAMETERS" value="--module-path $USER_HOME$/lib/javafx-sdk-11.0.2/lib --add-modules javafx.base,javafx.controls,javafx.fxml,javafx.graphics,javafx.media,javafx.web" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SketchIt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26a3ee3f-9101-4c17-8e3a-123613942205" name="Default Changelist" comment="" />
+      <created>1582782611470</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582782611470</updated>
+      <workItem from="1582782615309" duration="949000" />
+      <workItem from="1582865990400" duration="28000" />
+      <workItem from="1582866888715" duration="8538000" />
+      <workItem from="1582917890684" duration="659000" />
+      <workItem from="1583491882690" duration="487000" />
+      <workItem from="1583493336751" duration="64139000" />
+      <workItem from="1583710073220" duration="1113000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="240" y="51" width="811" height="669" key="#Project_Structure" timestamp="1582782625150">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state x="240" y="51" width="811" height="669" key="#Project_Structure/0.23.1280.726@0.23.1280.726" timestamp="1582782625150" />
+    <state x="104" y="48" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582867258557">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state x="104" y="48" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.726@0.23.1280.726" timestamp="1582867258557" />
+    <state x="453" y="102" key="#com.intellij.ide.util.MemberChooser" timestamp="1583608982307">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state x="453" y="102" key="#com.intellij.ide.util.MemberChooser/0.23.1280.726@0.23.1280.726" timestamp="1583608982307" />
+    <state x="294" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1583558222827">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state x="294" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1280.726@0.23.1280.726" timestamp="1583558222827" />
+    <state width="1126" height="225" key="GridCell.Tab.0.bottom" timestamp="1583710040405">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state width="1126" height="130" key="GridCell.Tab.0.bottom/0.23.1280.726/1280.-257.1920.1057@0.23.1280.726" timestamp="1583699160386" />
+    <state width="1126" height="225" key="GridCell.Tab.0.bottom/0.23.1280.726@0.23.1280.726" timestamp="1583710040405" />
+    <state width="1126" height="225" key="GridCell.Tab.0.center" timestamp="1583710040404">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state width="1126" height="130" key="GridCell.Tab.0.center/0.23.1280.726/1280.-257.1920.1057@0.23.1280.726" timestamp="1583699160384" />
+    <state width="1126" height="225" key="GridCell.Tab.0.center/0.23.1280.726@0.23.1280.726" timestamp="1583710040404" />
+    <state width="1126" height="225" key="GridCell.Tab.0.left" timestamp="1583710040404">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state width="1126" height="130" key="GridCell.Tab.0.left/0.23.1280.726/1280.-257.1920.1057@0.23.1280.726" timestamp="1583699160383" />
+    <state width="1126" height="225" key="GridCell.Tab.0.left/0.23.1280.726@0.23.1280.726" timestamp="1583710040404" />
+    <state width="1126" height="225" key="GridCell.Tab.0.right" timestamp="1583710040405">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state width="1126" height="130" key="GridCell.Tab.0.right/0.23.1280.726/1280.-257.1920.1057@0.23.1280.726" timestamp="1583699160385" />
+    <state width="1126" height="225" key="GridCell.Tab.0.right/0.23.1280.726@0.23.1280.726" timestamp="1583710040405" />
+    <state width="1126" height="225" key="GridCell.Tab.1.bottom" timestamp="1583710040406">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state width="1126" height="225" key="GridCell.Tab.1.bottom/0.23.1280.726@0.23.1280.726" timestamp="1583710040406" />
+    <state width="1126" height="225" key="GridCell.Tab.1.center" timestamp="1583710040406">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state width="1126" height="225" key="GridCell.Tab.1.center/0.23.1280.726@0.23.1280.726" timestamp="1583710040406" />
+    <state width="1126" height="225" key="GridCell.Tab.1.left" timestamp="1583710040406">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state width="1126" height="225" key="GridCell.Tab.1.left/0.23.1280.726@0.23.1280.726" timestamp="1583710040406" />
+    <state width="1126" height="225" key="GridCell.Tab.1.right" timestamp="1583710040406">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state width="1126" height="225" key="GridCell.Tab.1.right/0.23.1280.726@0.23.1280.726" timestamp="1583710040406" />
+    <state x="128" y="23" key="SettingsEditor" timestamp="1582867202907">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state x="128" y="23" key="SettingsEditor/0.23.1280.726@0.23.1280.726" timestamp="1582867202907" />
+    <state x="317" y="218" key="com.intellij.ide.util.TipDialog" timestamp="1583710076568">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state x="317" y="218" key="com.intellij.ide.util.TipDialog/0.23.1280.726@0.23.1280.726" timestamp="1583710076568" />
+  </component>
+</project>
